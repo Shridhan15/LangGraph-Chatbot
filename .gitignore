@@ -5,3 +5,7 @@ __pycache__/
 chatbot.db
 chatbot.db-shm
 chatbot.db-wal
+
+
+credentials.json        
+token.json 
